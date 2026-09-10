@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/Users/shobhit/Desktop/30-day-AI/python/ragas-env/bin/python3",
+    "python.terminal.activateEnvironment": true,
+    "js/ts.preferences.includePackageJsonAutoImports": "on"
+}
